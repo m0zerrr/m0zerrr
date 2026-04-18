@@ -1,8 +1,12 @@
 # Привет, Я Максим 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science)](https://git.io/typing-svg)
+
 Я начинающий _аналитик данных_ из Новосибирска `(без профессионального опыта)`.  Ищу стажировку, которую смогу совмещать с учёбой на 2 курсе
 
 ---
-## Обо мне 📜
+
+## 📜 Обо мне 
 
 В 11 классе, когда передо мной встал выбор моего дальшего пути, я заметил эту специальность и сразу поставил цель поступить именно сюда. Успешно сдав экзамены, я поступил и по сей день с воодущевлением посещаю вуз, чтобы узнавать что-то новое.
 
@@ -14,6 +18,7 @@
 Сейчас я являюсь студентом 2 курса НГТУ и учусь, по моему мнению, по лучшем направлению - ***"Бизнес-информатика"***, которое сочетает экономику, финансы и IT.
 
 ---
+
 ## 🚀 На данный момент Я:
 + 🐍 Повышаю уровень знаний о Python
 + 🤖 Изучаю машинное обучение
@@ -25,6 +30,7 @@
 ](https://t.me/mozcoff) [![Mail Badge](https://img.shields.io/badge/%D0%AF.%D0%9F%D0%BE%D1%87%D1%82%D0%B0-yellow?style=flat-square&logo=gmail)](mailto:maxik13072@yandex.ru)
 
 ---
+
 ## 🖥️ Технологии
 <div>
   <p>⚙️ Основные:</p>
@@ -45,6 +51,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
 </div>
+
+---
+
+## 📈 Статистика
+
+[![codewars](https://www.codewars.com/users/m0zerrr/badges/large)](https://www.codewars.com/users/m0zerrr)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/m0zerrr)](https://leetcode.com/m0zerrr)
 
 <!--
 **m0zerrr/m0zerrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
